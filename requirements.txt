@@ -1,0 +1,13 @@
+pandas
+geopandas
+matplotlib
+seaborn
+numpy
+shapely
+pyproj
+scipy
+networkx
+python-igraph
+plotly
+dash
+folium

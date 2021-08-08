@@ -1,0 +1,10 @@
+sf
+dodgr
+Matrix
+leaflet
+rgdal
+osmdata
+htmlwidgets
+ggplot2
+igraph
+tmaptools

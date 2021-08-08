@@ -1,0 +1,12 @@
+version: '3.5'
+services:
+  web:
+    build: .
+    ports:
+    - "5010:5010"
+    - "9122:22"
+    restart: always
+    tty: true
+    volumes:
+    - .:/home/sumo
+
